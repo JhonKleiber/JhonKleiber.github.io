@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Todo Artículos - Jhon Kleiber | Web Oficial</title>
+        <link>https://jhonkleiber.github.io/posts/</link>
+        <description>Todo Artículos | Jhon Kleiber | Web Oficial</description>
+        <generator>Hugo -- gohugo.io</generator><language>es-Es</language><managingEditor>info@jhonkleiber.com (Jhon Kleiber)</managingEditor>
+            <webMaster>info@jhonkleiber.com (Jhon Kleiber)</webMaster><lastBuildDate>Thu, 27 Jan 2022 23:00:38 &#43;0100</lastBuildDate><atom:link href="https://jhonkleiber.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Videos</title>
+    <link>https://jhonkleiber.github.io/posts/videos/</link>
+    <pubDate>Thu, 27 Jan 2022 23:00:38 &#43;0100</pubDate>
+    <author>Autor</author>
+    <guid>https://jhonkleiber.github.io/posts/videos/</guid>
+    <description><![CDATA[Aquí puedes encontrar los ultimos videoclips de Jhon Kleiber. ¡Disfrutalos!
+ Jhon Kleiber - Amor de mi alma    Jhon Kleiber - Permitelo mi Dios   ]]></description>
+</item><item>
+    <title>¿Quién Soy?</title>
+    <link>https://jhonkleiber.github.io/posts/mi_post/</link>
+    <pubDate>Thu, 27 Jan 2022 14:33:57 &#43;0100</pubDate>
+    <author>Autor</author>
+    <guid>https://jhonkleiber.github.io/posts/mi_post/</guid>
+    <description><![CDATA[Soy Jhon Kleiber, un artista de pop latino y música popular nacido en Cali (Colombia), donde crecí corriendo entre las calles en pendiente y las fachadas de colores del barrio de Siloé; siempre acompañado por las melodías que nacían de la vieja radio frente a la que mis abuelos cantaban y tarareaban canciones populares, mientras las paredes de aquella casa latían con el sonido de las trompetas, las guitarras y los acordeones.]]></description>
+</item></channel>
+</rss>
