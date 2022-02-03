@@ -1,7 +1,7 @@
 baseURL = 'https://jhonkleiber.github.io/'
 languageCode = 'es-Es'
 defaultContentLanguage = 'es'
-title = 'Jhon Kleiber | Web Oficial'
+title = 'Web Oficial'
 theme = 'LoveIt'
 
 [params]
