@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Etiqueta - Jhon Kleiber | Web Oficial</title>
+        <title>Tags - Etiqueta - Web Oficial</title>
         <link>https://jhonkleiber.github.io/tags/</link>
-        <description>Tags - Etiqueta - Jhon Kleiber | Web Oficial</description>
+        <description>Tags - Etiqueta - Web Oficial</description>
         <generator>Hugo -- gohugo.io</generator><language>es-Es</language><managingEditor>info@jhonkleiber.com (Jhon Kleiber)</managingEditor>
             <webMaster>info@jhonkleiber.com (Jhon Kleiber)</webMaster><atom:link href="https://jhonkleiber.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
